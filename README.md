@@ -1,6 +1,6 @@
 # ffn Tutorial
 
-This tutorial explains some of the useful comeponents of the ffn library (Financial Functions for Python) and how to use them. The library provides visualizations, statistics, calculations, and other utilities.
+This tutorial explains some of the useful components of the ffn library (Financial Functions for Python) and how to use them. The library provides visualizations, statistics, calculations, and other utilities.
 
 ## Prerequisites
 Install the ffn library with either
